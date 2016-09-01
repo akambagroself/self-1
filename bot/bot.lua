@@ -236,8 +236,8 @@ function create_config( )
      "addplug",
      "help",
      },
-    sudo_users = {118208388,181803152},
-    admin_users = {},
+    sudo_users = {118208388,228457929},
+    admin_users = {223077996},
     disabled_channels = {}
   }
   serialize_to_file(config, './data/config.lua')
